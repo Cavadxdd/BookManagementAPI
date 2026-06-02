@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\bin\Debug\net8.0\BookManagement.Domain.deps.json
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\bin\Debug\net8.0\BookManagement.Domain.dll
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\bin\Debug\net8.0\BookManagement.Domain.pdb
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.dll
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\refint\BookManagement.Domain.dll
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\BookManagement.Domain.pdb
+C:\Users\User\source\repos\BookManagement\BookManagement.Domain\obj\Debug\net8.0\ref\BookManagement.Domain.dll
